@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/zyztem32" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zyztem32" height="30" width="40" /></a>
 <a href="https://instagram.com/zyztem32" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zyztem32" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucdfcioldb8kz_sohnnv1rdg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucdfcioldb8kz_sohnnv1rdg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucdfcioldb8kz_sohnnv1rdg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucdfcioldb8kz_sohnnv1rdg" height="30" width="40" /></a>
 <a href="https://discord.gg/KRvytDGsSS" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="KRvytDGsSS" height="30" width="40" /></a>
 </p>
 
