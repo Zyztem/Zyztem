@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **HTML, CSS**
 
-- 💬 Ask me about **discord.py**
+- 💬 Ask me about **discord.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
