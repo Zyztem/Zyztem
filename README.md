@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/zyztem32" target="blank"><img src="https://img.shields.io/twitter/follow/zyztem32?logo=twitter&style=for-the-badge" alt="zyztem32" /></a> </p>
 
-- 🔭 I’m currently working on **VentureCloud**
-
+- 🔭 I’m currently working on **VentureCloud** & **EurophiaMC**
+ 
 - 🌱 I’m currently learning **JavaScript, Node.JS**
 
 - 🤝 I’m looking for help with **HTML, CSS**
