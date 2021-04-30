@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **VentureCloud** & **EurophiaMC** & **Celendi**
  
-- 🌱 I’m currently learning **JavaScript, Node.JS**
+- 🌱 I’m currently learning **JavaScript, Node.JS**, **Erela.JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
