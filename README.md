@@ -15,6 +15,5 @@ Skills: JS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyztem&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Zyztem)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Zyztem)  
+  
 
