@@ -93,12 +93,12 @@
 <br/>  
 
 
-## Current song that I am listening 
+## Spotify Status 
   
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=l19gs0t8tlldp98ytvgobz7zr&cover_image=true&theme=novatorem" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=l19gs0t8tlldp98ytvgobz7zr&cover_image=false&theme=default" /></div>    
 
 
 <br/>  
