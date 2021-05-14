@@ -91,21 +91,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zyztem&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Spotify Status 
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=l19gs0t8tlldp98ytvgobz7zr&cover_image=false&theme=default" /></div>    
-
-
-<br/>  
-
   
 
 <br/>  
 
 
-<br />
+<br/>
