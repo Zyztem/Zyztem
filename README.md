@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML, And CSS**
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **Discord**
 
 - 📫 How to reach me **zyztem@celendi.me**
 
