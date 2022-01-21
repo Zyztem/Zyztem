@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Discord**
 
-- 📫 How to reach me **zyztem@celendi.me**
+- 📫 How to reach me **zyztembuisness@gmail.com**
 
 - ⚡ Fun fact **I Like Cookies**
 
